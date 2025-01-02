@@ -84,8 +84,8 @@ Proyek ini memberikan manfaat besar bagi retailer sepeda dan pebisnis baru yang 
 1. **Kloning Repository:**  
    Unduh proyek dari GitHub ke lokal Anda:  
    ```bash  
-   git clone https://github.com/username/bicycle-sales-insights.git  
-   cd bicycle-sales-insights  
+   git clone https://github.com/username/bike-store-data-insight.git  
+   cd bike-store-data-insight 
    ```  
 
 2. **Instalasi Library yang Dibutuhkan:**  
@@ -105,7 +105,7 @@ Proyek ini memberikan manfaat besar bagi retailer sepeda dan pebisnis baru yang 
    ```bash  
    jupyter notebook  
    ```  
-   Buka file notebook `bicycle_sales_analysis.ipynb`.  
+   Buka file notebook `bike_store_db_group3.ipynb`.  
 
 2. **Integrasi Dataset dengan SQLite:**  
    Proyek ini memuat dataset dari file CSV ke dalam database SQLite. Jalankan blok kode awal untuk memuat data dan membuat koneksi ke database.  
